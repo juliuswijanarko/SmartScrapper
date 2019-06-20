@@ -1,10 +1,10 @@
 # SmartScrapper
 ## Run
 Download and extract zip file, put prjScrapper in Desktop
-
+<span style="color:red">cardinals</span>
 Open command prompt, change directory
 ```
-cd C:\Users\<your user>\Desktop\prjScrapper-master
+cd C:\Users\<span style="color:red">cardinals</span>\Desktop\prjScrapper-master
 ```
 Start included python virtual environment by typing this to your cmd
 ```
