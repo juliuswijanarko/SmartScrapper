@@ -1,6 +1,5 @@
 # SmartScrapper
-### Run
-```
+## Run
 Download project as zip
 Extract zip file and put prjScrapper in Desktop
 Open command prompt
@@ -20,9 +19,9 @@ Run server
 ```
 python manage.py runserver
 ```
-```
 
-### Use
+
+## Use
 After spin up server user can try to hit the API by typing this in browser
 ```
 localhost:8000/<internet banking user id>/<internet banking password>
