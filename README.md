@@ -1,5 +1,6 @@
 # SmartScrapper
 ### Run
+```
 Download project as zip
 Extract zip file and put prjScrapper in Desktop
 Open command prompt
@@ -18,6 +19,7 @@ cd pyapi
 Run server
 ```
 python manage.py runserver
+```
 ```
 
 ### Use
