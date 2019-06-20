@@ -1,5 +1,5 @@
 # SmartScrapper
-###Run
+### Run
 Download project as zip
 Extract zip file and put prjScrapper in Desktop
 Open command prompt
@@ -20,14 +20,14 @@ Run server
 python manage.py runserver
 ```
 
-###Use
+### Use
 After spin up server user can try to hit the API by typing this in browser
 ```
 localhost:8000/<internet banking user id>/<internet banking password>
 ```
 
 
-##About
+## About
 *This is an API with ability to scrap user internet banking mutation(last 3 months) and account balance
 *This API will not scrap other information except user internet banking mutation(last 3 months) and account balance
 *Your user id and password passed through API parameter will not stored in any place
